@@ -1,0 +1,9 @@
+POST http://localhost:3000/submit
+Content-Type: application/json
+
+{
+  "firstName": "Dharva",
+  "lastName": "Patel",
+  "email": "omsaipharma55@gmail.com",
+  "contactNumber": "6355648429"
+}
